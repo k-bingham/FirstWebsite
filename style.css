@@ -1,0 +1,108 @@
+/* this is a comment */
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:#f0f0f5;
+    text-align: center;
+    color: #1f2837;
+    width: 75rem;
+    margin: 2rem auto;
+}
+
+
+blockquote{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3rem;
+    color: #6b3485;
+    text-align: center;
+    width:50%;
+    margin:0 auto;
+    background-color: #DADADB;
+}
+
+cite{
+    font-size: small;
+    display:block;
+}
+
+blockquote p{
+    margin-bottom:0;
+    padding:0rem 1rem;
+
+}
+
+.question{
+    font-weight: bold;
+}
+
+h1 { 
+    color:#d64fb9;
+}
+
+h2 { 
+    color: #d6bd4f;
+}
+
+h3 {
+    color:#6b3485;
+}
+
+nav li{
+    width: 12rem;
+    background-color: #4fd6c6;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    display: inline-block;
+    border-bottom: 2px solid #5dffec;
+}
+
+li{
+    display:block
+}
+
+  nav ul {
+    padding: 0px;
+    margin: 0px
+  }
+  
+  nav a{
+     color: #288276;
+    text-decoration: none;
+    display:block;
+      padding: 0.05rem;
+  }
+  nav a:visited {
+      color: white;
+  }
+  nav a:hover {
+      color: white;
+      background-color: black;
+  }
+
+em {
+    color:#d64fb9;
+}
+
+strong {
+    color:#6b3485;
+}
+
+.floatleft{
+    float:left;
+    margin:0rem 1rem 1rem 0rem;
+}
+
+.hobbies{
+    border: #6b3485 4px solid;
+    background-color: #cc90e7;
+    width:50%;
+    margin:0 auto;
+}
+
+div li {
+    text-align: center;
+}
+
+div ul{
+    margin:0 auto;
+}
